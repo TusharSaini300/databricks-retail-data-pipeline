@@ -135,7 +135,7 @@ The Gold fact dataset contains approximately **183,000 order-item rows** and inc
 
 The Gold layer contains business-ready fact and dimension tables. The `fact_transactions_denorm` table combines transaction-level information with relevant customer, product, and date attributes to support analytical queries.
 
-![Gold Fact Table in Databricks](images/gold-fact-table.png)
+![Gold Fact Table in Databricks](images/gold_transaction_sample.png)
 
 ## Business Insights Identified
 
