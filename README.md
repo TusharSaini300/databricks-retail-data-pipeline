@@ -37,6 +37,8 @@ The workflow covers:
 
 ## End-to-End Workflow
 
+images/retail_pipeline.png
+
 ```text
 Retail Source CSVs
 (customers, products, brands, categories, dates, order items)
