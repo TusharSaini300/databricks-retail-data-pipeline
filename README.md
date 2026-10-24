@@ -37,7 +37,7 @@ The workflow covers:
 
 ## End-to-End Workflow
 
-images/retail_pipeline.png
+![pipeline](images/retail_pipeline.png)
 
 ```text
 Retail Source CSVs
