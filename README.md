@@ -131,6 +131,12 @@ The Gold fact dataset contains approximately **183,000 order-item rows** and inc
 - Present selected KPIs and trends through a retail dashboard.
 - Translate analytical findings into recommendations for merchandising, retention, discounting, channel optimization, and market performance.
 
+## Gold Layer — Curated Data
+
+The Gold layer contains business-ready fact and dimension tables. The `fact_transactions_denorm` table combines transaction-level information with relevant customer, product, and date attributes to support analytical queries.
+
+![Gold Fact Table in Databricks](images/gold-fact-table.png)
+
 ## Business Insights Identified
 
 The analysis of the Gold-layer transaction dataset highlighted several areas for further business action.
