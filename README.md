@@ -137,6 +137,28 @@ The Gold layer contains business-ready fact and dimension tables. The `fact_tran
 
 ![Gold Fact Table in Databricks](images/gold_transaction_sample.png)
 
+## Databricks Dashboard
+
+The project includes a three-page **Databricks AI/BI dashboard**. Global Category and Brand filters allow users to explore performance across different product categories and brands.
+
+### Retail Performance Overview
+
+Displays total revenue, unique customers, transaction count, revenue by channel, and monthly sales trends.
+
+![Retail Performance Overview](images/retail-dashboard.png)
+
+### Sales Insights
+
+Explores daily sales patterns, net revenue by category, and revenue by day of week and hour.
+
+![Sales Insights Dashboard](images/sales-dashboard.png)
+
+### Brand Analysis
+
+Compares the top 20 brands by revenue and supporting brand-level metrics. The monthly trend responds to the selected Brand filter.
+
+![Brand Analysis Dashboard](images/brands-dashboard.png)
+
 ## Business Insights Identified
 
 The analysis of the Gold-layer transaction dataset highlighted several areas for further business action.
